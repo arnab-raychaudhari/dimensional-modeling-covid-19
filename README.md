@@ -40,4 +40,4 @@ Is the data in a suitable format given the time constraint?
 
 The data used was sourced from a single CSV file, eliminating the need for merging or any other manipulation of the original data. The dataset was uploaded to EC2 (which was spun up using an AMI that came with Ubuntu 20.04 w/Python, R, Spark) for examination using csvkit and command-line tools. The decision was made to proceed without dropping any observations. The following section outlines the steps taken in this phase of the project and details the challenges anticipated due to the commitment to retain all observations.
 
-![data wrangling]()
+![data wrangling](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/f6bc7726592bd9b4d7d2c89e68537258fee53278/data-wrangling.png)
