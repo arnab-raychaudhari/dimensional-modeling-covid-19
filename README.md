@@ -6,6 +6,13 @@ The profound impact of the COVID-19 pandemic has transformed daily life, alterin
 
 To achieve this, daily country-level data spanning from January 1st, 2020, to November 29th, 2023, was compiled, encompassing 1,429 days of information for all countries worldwide from Our World in Data. After confirming the data’s suitability for dimensional modeling, an analytical database was established. Following a thorough review of the dataset, three analytical questions were formulated, which are elaborated upon in the subsequent sections.
 
+## Tech Stack
+
+Computing environment : AWS EC2
+Data wrangling : SQL, CSVKit
+Database: PostgreSQL
+Visualization : Microsoft Powerpoint
+
 ## Core Insights
 
 ![dimension](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/87fb103daff130dd7ca1cc8512a94cf4b1e53499/dimension.svg) Utilizing techniques like dimensional modeling expedites the extraction of valuable information from extensive datasets.
@@ -113,4 +120,8 @@ Assessing a nation’s response to the pandemic, as well as the pandemic’s imp
 
 ## Real-World Applications of Insights Derived from Dimensional Modeling
 
-![applications]()
+![applications](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/8fa40849ea7cc140ec519770ff11bfe9542c2739/applications.png)
+
+## Conclusion
+
+This project has provided an opportunity to demonstrate the practical application of analytical tools in efficiently addressing complex real-world challenges, particularly when working with extensive datasets. Covid analytics has been crucial in the global response to the pandemic, from monitoring cases to informing policy decisions. However, the aggregated nature of the data at the country level has presented limitations in addressing highly specific questions about individual countries. If data were available at a finer granularity, such as state, province, county, or city level, more intricate inquiries could be explored. Nonetheless, this presentation highlights the significant power of analytics in navigating and understanding complex challenges.
