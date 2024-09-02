@@ -85,28 +85,28 @@ Before addressing the analytical question, the dataset was thoroughly explored t
 
 On January 30th, 2021, the EU authorized covid vaccines. Is there a significant difference in the trends of the weekly percentages of vaccinated populations of countries with the highest average stringency index compared to the countries with the lowest up to a year after the EU authorization of the vaccines?
 
-![deep-dive-aq1-img-1]()
+![deep-dive-aq1-img-1](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q1-image1.png)
 
-![deep-dive-aq1-img-2]()
+![deep-dive-aq1-img-2](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q1-image2.png)
 
 ### Deep Diving into Analytical Question 2
 
 Research suggests that factors like smoking and age influence individuals’ vulnerability. Can the most vulnerable country on each continent be identified based on factors such as smoking prevalence, cardiovascular death rate, and the percentage of the population aged 65 and above? Additionally, can the impact of the virus in these countries be analyzed by comparing the number of deaths to those in countries on the same continent that are considered the least vulnerable by the same criteria?
 
-![deep-dive-aq2-img-1]()
+![deep-dive-aq2-img-1](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q2-image1.png)
 
-![deep-dive-aq2-img-2]()
+![deep-dive-aq2-img-2](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q2-image2.png)
 
-![deep-dive-aq2-img-3]()
+![deep-dive-aq2-img-3](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q2-image3.png)
 
 ### Deep Diving into Analytical Question 3
 
 Assessing a nation’s response to the pandemic, as well as the pandemic’s impact on a nation, can be evaluated by examining the reported numbers of new cases. Are there notable variations in the patterns of monthly total new cases across different continents? Upon analyzing these trends, it is important to determine whether the cumulative new cases are uniformly distributed across all countries within a continent or if a specific country predominantly contributes to the total. In cases where one country significantly influences the majority of new cases, insights into potential factors contributing to why that specific country is disproportionately affected could be explored.
 
-![deep-dive-aq3-img-1]()
+![deep-dive-aq3-img-1](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q3-image1.png)
 
-![deep-dive-aq3-img-2]()
+![deep-dive-aq3-img-2](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q3-image2.png)
 
-![deep-dive-aq3-img-3]()
+![deep-dive-aq3-img-3](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q3-image3.png)
 
-![deep-dive-aq3-img-4]()
+![deep-dive-aq3-img-4](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q3-image4.png)
