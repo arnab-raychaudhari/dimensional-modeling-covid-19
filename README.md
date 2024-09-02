@@ -58,3 +58,9 @@ The Dimensional modeling section of the project can be broken down into three ma
 ### Star Schema
 
 ![start-schema](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/8f7fc52fcf74830fedb3fb70e4dc1be489fc592e/star-schema.png)
+
+### Creating tables and bulk upload
+
+![tables and bulk upload]()
+
+At each step of the process and at its conclusion, the number of rows loaded into the tables was verified to ensure they matched the expected values.
