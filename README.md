@@ -13,3 +13,11 @@ To achieve this, daily country-level data spanning from January 1st, 2020, to No
 ![analytics](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/87fb103daff130dd7ca1cc8512a94cf4b1e53499/analytics.svg) Analytics applied to COVID data have proven instrumental in aiding health experts and government officials in adapting their responses effectively.
 
 ![covid](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/87fb103daff130dd7ca1cc8512a94cf4b1e53499/covid.svg) Noteworthy statistics reveal that 51% of all COVID-related deaths occurred in 2021, the yearly percentage of total cases in 2023 is 6%, and 71% of the global population has received at least one dose of the vaccine. These figures exemplify the world's collective response to the pandemic.
+
+## Data Acquisition
+
+The data used in this project is sourced from the GitHub repository managed by Our World in Data, encompassing country-level data for every nation globally. The extensive dataset comprises 358,802 observations and 67 variables, categorized into 8 metrics: Vaccinations, Testing and Positivity, Hospital & ICU, Confirmed Cases, Confirmed Deaths, Reproduction Rate, Policy Responses, and other variables of interest. The table below offers a more detailed perspective.
+
+![Metric description and no.of variables]()
+
+![Metric and variables]()
