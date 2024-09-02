@@ -110,3 +110,7 @@ Assessing a nation’s response to the pandemic, as well as the pandemic’s imp
 ![deep-dive-aq3-img-3](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q3-image3.png)
 
 ![deep-dive-aq3-img-4](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q3-image4.png)
+
+## Real-World Applications of Insights Derived from Dimensional Modeling
+
+![applications]()
