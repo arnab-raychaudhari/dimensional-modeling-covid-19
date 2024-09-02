@@ -69,6 +69,8 @@ At each step of the process and at its conclusion, the number of rows loaded int
 
 Before addressing the analytical question, the dataset was thoroughly explored through the execution of several queries. This exploration helped in formulating more specific questions. The following summary highlights some key elements visualized during this process, providing a general understanding of the dataset.
 
-![summary-highlights]()
+![summary-highlights](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/09f12202029b1279938ed7fcf193c1c443553b90/summary-highlights-of-dataset.png)
 
-![deaths-world-view]()
+![deaths-world-view](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/09f12202029b1279938ed7fcf193c1c443553b90/summary-highlights-deaths-world-view.png)
+
+
