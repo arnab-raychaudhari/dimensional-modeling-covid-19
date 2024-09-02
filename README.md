@@ -18,6 +18,6 @@ To achieve this, daily country-level data spanning from January 1st, 2020, to No
 
 The data used in this project is sourced from the GitHub repository managed by Our World in Data, encompassing country-level data for every nation globally. The extensive dataset comprises 358,802 observations and 67 variables, categorized into 8 metrics: Vaccinations, Testing and Positivity, Hospital & ICU, Confirmed Cases, Confirmed Deaths, Reproduction Rate, Policy Responses, and other variables of interest. The table below offers a more detailed perspective.
 
-![Metric description and no.of variables]()
+![Metric description and no.of variables](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/8ff0b8a95a326781f81672e5060a77bcf6bf128a/Metric-description-variable-count.png)
 
-![Metric and variables]()
+![Metric and variables](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/8ff0b8a95a326781f81672e5060a77bcf6bf128a/Metric-and-variables.png)
