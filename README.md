@@ -9,8 +9,11 @@ To achieve this, daily country-level data spanning from January 1st, 2020, to No
 ## Tech Stack
 
 Computing environment : ![ec2](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/1ae4554805e5c2b0e9c549e4c4e718400d2bc22e/ec2.svg) AWS EC2
+
 Data wrangling : ![sql](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/1ae4554805e5c2b0e9c549e4c4e718400d2bc22e/sql.svg) SQL, ![csv](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/1ae4554805e5c2b0e9c549e4c4e718400d2bc22e/csv.svg) CSVKit
+
 Database: ![postgresql](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/1ae4554805e5c2b0e9c549e4c4e718400d2bc22e/postgresql.svg) PostgreSQL
+
 Visualization : ![ppt](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/1ae4554805e5c2b0e9c549e4c4e718400d2bc22e/powerpoint.svg) Microsoft Powerpoint
 
 ## Core Insights
