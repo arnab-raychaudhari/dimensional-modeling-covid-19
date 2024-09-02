@@ -61,6 +61,6 @@ The Dimensional modeling section of the project can be broken down into three ma
 
 ### Creating tables and bulk upload
 
-![tables and bulk upload]()
+![tables and bulk upload](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/e021d3e7f9902d1b62d6f074975cf35b12fa207c/tables-and-bulk-upload.png)
 
 At each step of the process and at its conclusion, the number of rows loaded into the tables was verified to ensure they matched the expected values.
