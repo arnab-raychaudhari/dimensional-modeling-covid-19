@@ -21,3 +21,17 @@ The data used in this project is sourced from the GitHub repository managed by O
 ![Metric description and no.of variables](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/8ff0b8a95a326781f81672e5060a77bcf6bf128a/Metric-description-variable-count.png)
 
 ![Metric and variables](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/8ff0b8a95a326781f81672e5060a77bcf6bf128a/Metric-and-variables.png)
+
+## Real World Impact
+
+Does the topic have a real impact on the world?
+
+- Analytics have been leveraged by governments and decisions makers to navigate the pandemic (Policy)
+- Can save millions of lives
+- Useful to adjust international and national responses to pandemic
+
+## Data wrangling and dimensional modeling
+
+The data used was sourced from a single CSV file, eliminating the need for merging or any other manipulation of the original data. The dataset was uploaded to EC2 (which was spun up using an AMI that came with Ubuntu 20.04 w/Python, R, Spark) for examination using csvkit and command-line tools. The decision was made to proceed without dropping any observations. The following section outlines the steps taken in this phase of the project and details the challenges anticipated due to the commitment to retain all observations.
+
+![data wrangling]()
