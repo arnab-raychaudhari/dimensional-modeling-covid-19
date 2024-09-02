@@ -30,6 +30,12 @@ Does the topic have a real impact on the world?
 - Can save millions of lives
 - Useful to adjust international and national responses to pandemic
 
+Is the data in a suitable format given the time constraint?
+
+- Dataset is in a clean format
+- Data was collected by internationally recognized organization
+- Data is suitable for dimensional modeling
+
 ## Data wrangling and dimensional modeling
 
 The data used was sourced from a single CSV file, eliminating the need for merging or any other manipulation of the original data. The dataset was uploaded to EC2 (which was spun up using an AMI that came with Ubuntu 20.04 w/Python, R, Spark) for examination using csvkit and command-line tools. The decision was made to proceed without dropping any observations. The following section outlines the steps taken in this phase of the project and details the challenges anticipated due to the commitment to retain all observations.
