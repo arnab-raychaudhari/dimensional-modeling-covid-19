@@ -57,4 +57,4 @@ The Dimensional modeling section of the project can be broken down into three ma
 
 ### Star Schema
 
-![start-schema]()
+![start-schema](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/8f7fc52fcf74830fedb3fb70e4dc1be489fc592e/star-schema.png)
