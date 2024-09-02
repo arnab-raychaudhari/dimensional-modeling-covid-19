@@ -8,8 +8,8 @@ To achieve this, daily country-level data spanning from January 1st, 2020, to No
 
 ## Core Insights
 
-![dimension]() Utilizing techniques like dimensional modeling expedites the extraction of valuable information from extensive datasets.
+![dimension](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/87fb103daff130dd7ca1cc8512a94cf4b1e53499/dimension.svg) Utilizing techniques like dimensional modeling expedites the extraction of valuable information from extensive datasets.
 
-![analytics]() Analytics applied to COVID data have proven instrumental in aiding health experts and government officials in adapting their responses effectively.
+![analytics](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/87fb103daff130dd7ca1cc8512a94cf4b1e53499/analytics.svg) Analytics applied to COVID data have proven instrumental in aiding health experts and government officials in adapting their responses effectively.
 
-![covid]() Noteworthy statistics reveal that 51% of all COVID-related deaths occurred in 2021, the yearly percentage of total cases in 2023 is 6%, and 71% of the global population has received at least one dose of the vaccine. These figures exemplify the world's collective response to the pandemic.
+![covid](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/87fb103daff130dd7ca1cc8512a94cf4b1e53499/covid.svg) Noteworthy statistics reveal that 51% of all COVID-related deaths occurred in 2021, the yearly percentage of total cases in 2023 is 6%, and 71% of the global population has received at least one dose of the vaccine. These figures exemplify the world's collective response to the pandemic.
