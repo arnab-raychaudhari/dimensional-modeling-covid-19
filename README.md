@@ -103,7 +103,7 @@ Research suggests that factors like smoking and age influence individuals’ vul
 
 Assessing a nation’s response to the pandemic, as well as the pandemic’s impact on a nation, can be evaluated by examining the reported numbers of new cases. Are there notable variations in the patterns of monthly total new cases across different continents? Upon analyzing these trends, it is important to determine whether the cumulative new cases are uniformly distributed across all countries within a continent or if a specific country predominantly contributes to the total. In cases where one country significantly influences the majority of new cases, insights into potential factors contributing to why that specific country is disproportionately affected could be explored.
 
-![deep-dive-aq3-img-1](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q3-image1.png)
+![deep-dive-aq3-img-1](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/20e8fbd012f7d9f2854e76a5a36ebc2686db9bf5/deep-dive-q3-image1.png)
 
 ![deep-dive-aq3-img-2](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/c469ec18466fc8c856666bea15911a1c37a88df9/deep-dive-q3-image2.png)
 
