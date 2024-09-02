@@ -41,3 +41,20 @@ Is the data in a suitable format given the time constraint?
 The data used was sourced from a single CSV file, eliminating the need for merging or any other manipulation of the original data. The dataset was uploaded to EC2 (which was spun up using an AMI that came with Ubuntu 20.04 w/Python, R, Spark) for examination using csvkit and command-line tools. The decision was made to proceed without dropping any observations. The following section outlines the steps taken in this phase of the project and details the challenges anticipated due to the commitment to retain all observations.
 
 ![data wrangling](https://github.com/arnab-raychaudhari/dimensional-modeling-covid-19/blob/f6bc7726592bd9b4d7d2c89e68537258fee53278/data-wrangling.png)
+
+### General Observations
+
+- NA values: We have noticed that we have missing values for certain variables which was expected.
+- Hospital and ICU variables have the highest number of missing values
+
+### Challenges
+
+- Take into account the NA values when designing the analytical questions
+- Create views
+- Unavailable information that could be useful (such as state level information)
+
+The Dimensional modeling section of the project can be broken down into three main parts. First, a star schema was designed for the analytical database. Next, the design was implemented by creating the necessary tables (fact and dimensions). Finally, the data was loaded into the database.
+
+### Star Schema
+
+![start-schema]()
